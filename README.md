@@ -11,4 +11,4 @@ Basically, we just refer to this table to encode and decode
 | 😄 | 😃 | 😀 | 😊 | ☺️ | 😉 | 😍 | 😘 | 😚 | 😗 | 😙 | 😜 | 😝 | 😛 | 😳 | 😁 | 😔 | 😌 | 😒 | 😞 | 😣 | 😢 | 😂 | 😭 | 😎 | 😈 |
 ## Weaknesses
 
-If an attacker know that the message was encoded using this algorithm, he can easily crack it
+If an attacker know that the message was encoded using this algorithm, he can easily crack it!
